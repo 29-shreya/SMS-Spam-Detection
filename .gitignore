@@ -8,3 +8,4 @@ reports/*.png
 reports/*.txt
 dataset/*
 !dataset/.gitkeep
+spam_history.db
